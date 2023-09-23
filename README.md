@@ -1,4 +1,6 @@
 # first-repo
 This is my first repository
 
-This is out first change
+This is our first change
+
+This is a change from branch feat1
